@@ -1,2 +1,4 @@
 # BakeryApp
-Ujian Tengah Semester Mata kuliah pemograman mobile
+Nama : Dimas Galang #
+Nim :312310221 #
+Kelas : TI.23 A.2
